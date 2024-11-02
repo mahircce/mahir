@@ -1,23 +1,38 @@
 # MAHIR
 
-# ASSALAMUALAIKUM! 👋 I'm Mahir
+# 👋 Hello! I'm Mahir
 
-Welcome to my GitHub profile! I'm a passionate learner exploring the world of **web development**. Here, you'll find my journey from the basics to more advanced concepts as I dive into coding projects and new technologies.
+I'm an aspiring **Web Developer** exploring the world of web technologies and eager to grow my skills. Here, you'll find my journey from beginner to proficient developer as I experiment with various tools and frameworks.
 
-## 🔭 What I'm Currently Working On
-- Building foundational skills in HTML, CSS, and JavaScript
-- Exploring front-end frameworks like React
-- Practicing with hands-on projects to deepen my learning
+---
 
-## 🌱 What I'm Learning
-- Basics of **Web Development**: HTML, CSS, JavaScript
-- Front-end frameworks and libraries
-- Responsive design and UI/UX principles
+🛠 **Current Focus**:
+- 🌐 Learning front-end development (HTML, CSS, JavaScript)
+- 🛠 Experimenting with frameworks like React
+---
 
-## 💼 More About Me
-Want to know more? Check out my [Bio Link](https://bio.link/thmahir) for more info!
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/thmahirofficial)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/THMAHIROFFICIAL)
 
-## 📫 Let's Connect
-I'm always open to collaborating, learning from others, and sharing insights. Feel free to reach out if you have any advice or would like to work together!
+---
 
-Happy coding!
+### 💻 Tech Stack:
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### ✍️ Random Dev Quote
+> "With artificial intelligence we are summoning the demon."  
+> — *Elon Musk*
+
+---
+
+Thanks for stopping by! Feel free to connect or explore my projects as I continue learning and building in the world of web development. 🌱
+
